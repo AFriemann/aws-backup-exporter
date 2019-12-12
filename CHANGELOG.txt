@@ -1,0 +1,6 @@
+CHANGELOG.txt
+
+:Author: Aljosha Friemann
+:Email: aljosha.friemann@gmail.com
+
+# 0.1.0
